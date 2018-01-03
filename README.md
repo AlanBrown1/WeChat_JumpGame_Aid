@@ -13,7 +13,7 @@ In this case, to run my code, you need some requried tools.
 ### These three methods are:
 ① In jumpManual.py, you can manually select the centers of the player and target, then it knows the distance and press time.
 
-② In jumpRGB.py, it automatically jumps, 'cause the algorithm itself identify the centers using the RGB information contained in the grabbed picture of yr cellphone screen.
+② In jumpRGB.py, it automatically jumps, 'cause the algorithm itself identifies the centers using the RGB information contained in the grabbed picture of yr cellphone screen.
 
 ③ In jumpCV.py, it also automatically jumps, however, different from the above, it uses opencv to match the templates and get the centers.
 
