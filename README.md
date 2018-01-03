@@ -18,6 +18,6 @@ In this case, to run my code, you need some requried tools.
 ③ In jumpCV.py, it also automatically jumps, however, different from the above, it uses opencv to match the templates and get the centers.
 
 ### Recommendation
-Actually, I recommend the first method, although it lacks efficiency, it's the most reliable.The last two are not mature yet, it may fail, because sometimes it'll get the wrong or inaccurate  centers.
+Actually, I recommend the first method, although it lacks efficiency, it's the most reliable one.The last two are not mature yet, it may fail, because sometimes it'll get the wrong or inaccurate  centers.
 
 
