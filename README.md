@@ -4,7 +4,7 @@ This repo contains some code to assist playing WeChat Jump game, using three met
 ### Tools Used
 In this case, to run my code, you need some requried tools.
 
-① a sofyware that connect&control your PC and cellphone is total_control, which can project your cellphone screen on yr PC and control it, Baidu knows that.
+① A sofyware that connect&control your PC and cellphone is total_control, which can project your cellphone screen on yr PC and control it, Baidu knows that.
 
 ② Some python packages are needed, like most basicly numpy, matplotlib, pillow, and some a little bit more complex packages like os, pywin32, opencv, pymouse
 
