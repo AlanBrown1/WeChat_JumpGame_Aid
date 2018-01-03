@@ -6,7 +6,7 @@ NO SIMUllLATOR needed.
 ### Tools used
 In this case, to run my code, you need some requried tools.
 
-① A software that connect&control yr PC and cellphone is total_control, which can project your cellphone screen on yr PC and control it, Baidu knows that.
+① A software that connect&control yr PC and cellphone is "Total Control", which can project your cellphone screen on yr PC and control it, Baidu knows that.
 
 ② Some python packages are needed, like most basicly numpy, matplotlib, pillow, and some a little bit more complex packages like os, pywin32, opencv, pymouse.
 
